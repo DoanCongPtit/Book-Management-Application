@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1125" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_category_add.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_dashboard_user.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_pdf_add.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_pdf_detail.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_pdf_edit.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_pdf_list_admin.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_pdf_view.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/fragment_book_user.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/row_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/row_pdf_admin.xml" value="0.25" />
+        <entry key="..\:/Downloads/Android_studio/BookApp/app/src/main/res/layout/row_pdf_user.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
